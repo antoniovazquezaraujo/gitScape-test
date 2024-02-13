@@ -12,3 +12,5 @@ change 2
 
 change 1 in b2
 change 2 in b2
+
+direct change
